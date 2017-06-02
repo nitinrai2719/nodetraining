@@ -1,0 +1,19 @@
+{
+  "name": "Project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.5",
+    "jquery": "^3.1.0",
+    "node-persist": "0.0.6",
+    "request": "2.60.0",
+    "yargs": "3.15.0"
+  }
+}

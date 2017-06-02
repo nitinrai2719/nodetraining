@@ -1,0 +1,19 @@
+{
+  "name": "day1",
+  "version": "2.5.7",
+  "description": "my first node project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Demo.js"
+  },
+  "author": "nitin rai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "formidable": "^1.1.1",
+    "mongodb": "^2.1.4",
+    "path": "^0.12.7",
+    "underscore": "^1.8.3"
+  }
+}
